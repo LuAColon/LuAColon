@@ -1,16 +1,17 @@
-## Hi there 👋
+# Building AI workflows with measurable results
 
-<!--
-**LuAColon/LuAColon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m developing a portfolio focused on practical AI orchestration: coordinating work, evaluating outputs, and keeping people in control.
 
-Here are some ideas to get you started:
+My focus:
+- Increasing useful output while maintaining quality
+- Measuring completion time, cost, and reliability
+- Designing clear review and approval steps
+- Documenting experiments so others can reproduce the results
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## First project: AI Throughput Lab
+
+A planned demonstration of how different AI workflow designs affect the amount of usable work completed.
+
+I’ll compare a baseline workflow with an orchestrated workflow, document the tradeoffs, and publish results—including what fails.
+
+All examples will use public or synthetic data.
